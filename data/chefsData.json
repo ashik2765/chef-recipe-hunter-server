@@ -1,54 +1,60 @@
 [
     {
       "id": 1,
-      "chef_picture": "https://example.com/chef1.jpg",
+      "chef_picture": "https://i.ibb.co/jLyd1HZ/michael-wave-CYn-QUywz-Bt-I-unsplash.jpg",
       "chef_name": "John Doe",
       "years_of_experience": 10,
+      "bio":"Chef Liu: Master of Szechuan cuisine, with a love for bold flavors and spicy dishes. Famous for his ma po tofu, he brings fiery heat to every dish he creates.he is our main chef",
       "number_of_recipes": 50,
       "likes": 1000,
       "view_recipes_button": "https://example.com/chef1/recipes"
     },
     {
       "id": 2,
-      "chef_picture": "https://example.com/chef2.jpg",
+      "chef_picture": "https://i.ibb.co/qgHx3KF/lasse-bergqvist-TYj7ey6xn9-M-unsplash.jpg",
       "chef_name": "Jane Smith",
       "years_of_experience": 5,
+      "bio":"Chef Zhang: Cantonese cuisine specialist, known for his delicate touch and attention to detail. He creates beautifully plated dishes that are both delicious and visually stunning.",
       "number_of_recipes": 20,
       "likes": 500,
       "view_recipes_button": "https://example.com/chef2/recipes"
     },
     {
       "id": 3,
-      "chef_picture": "https://example.com/chef3.jpg",
+      "chef_picture": "https://i.ibb.co/hDwjV9p/abdalla-m-Lmv0-Y9q-IABc-unsplash.jpg",
       "chef_name": "Bob Johnson",
       "years_of_experience": 15,
+      "bio":"Chef Wang: Master of dim sum, his dumplings are perfectly steamed or fried with a variety of savory fillings. His dishes are sure to delight any fan of Chinese cuisine.",
       "number_of_recipes": 100,
       "likes": 2000,
       "view_recipes_button": "https://example.com/chef3/recipes"
     },
     {
       "id": 4,
-      "chef_picture": "https://example.com/chef4.jpg",
+      "chef_picture": "https://i.ibb.co/k19N8k0/toa-heftiba-5-Je-Tin55-H9-U-unsplash.jpg",
       "chef_name": "Sara Lee",
       "years_of_experience": 8,
+      "bio":"Chef Li: A wok master, his stir-fries are made with fresh ingredients and packed with flavor. He creates healthy, delicious dishes that are perfect for any meal. chef li is awsome",
       "number_of_recipes": 30,
       "likes": 800,
       "view_recipes_button": "https://example.com/chef4/recipes"
     },
     {
       "id": 5,
-      "chef_picture": "https://example.com/chef5.jpg",
+      "chef_picture": "https://i.ibb.co/y5StfGv/jesson-mata-I2-Erl2c-U-A4-unsplash.jpg",
       "chef_name": "Mark Wilson",
       "years_of_experience": 20,
+      "bio":"Chef Chen: A noodle expert, he creates hand-pulled noodles that are a must-try. He's also skilled in making savory soups that are perfect for a chilly day.chef chen is extraordinary",
       "number_of_recipes": 150,
       "likes": 3000,
       "view_recipes_button": "https://example.com/chef5/recipes"
     },
     {
       "id": 6,
-      "chef_picture": "https://example.com/chef6.jpg",
+      "chef_picture": "https://i.ibb.co/yFPx33S/mealpro-9-IQ1p-Th06y-A-unsplash.jpg",
       "chef_name": "Linda Green",
       "years_of_experience": 12,
+      "bio":" Chef Zhou: A specialist in northern Chinese cuisine, he uses traditional techniques and spices to create comforting, hearty dishes. His bold flavors are sure to please any food lover.",
       "number_of_recipes": 80,
       "likes": 1500,
       "view_recipes_button": "https://example.com/chef6/recipes"
